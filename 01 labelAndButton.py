@@ -10,7 +10,7 @@ label.pack()
 # Add a button
 button = tk.Button(root)
 button.configure(text="A Button")
-button.Pack()
+button.pack()
 # ==============
 
 root.mainloop()
